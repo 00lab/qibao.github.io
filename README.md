@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/UFOFCZ/qibao.github.io/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### [Typora软件使用教程.md](./Typora软件使用教程.md)
+### [Typora软件使用教程.md](./Typora软件使用教程.html)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
